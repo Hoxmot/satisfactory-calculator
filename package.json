@@ -1,7 +1,7 @@
 {
-  "name": "@hoxmot/ts-template",
+  "name": "@hoxmot/satisfactory-calculator",
   "version": "1.0.0",
-  "description": "This is a template of a packge. Replace me",
+  "description": "My custom calculator for the game called Satisfactory, because the existing ones don't fit my use-cases",
   "main": "index.js",
   "scripts": {
     "build": "npm run compile && npm run lint && npm run test",
